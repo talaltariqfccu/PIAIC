@@ -1,0 +1,1 @@
+console.log(`Ben Parker once said, "With great power comes great responsibility!".`);
